@@ -1,21 +1,38 @@
-# About me
-Hi, I’m Jon Ramos
-- I work developing Clojure and Clojurescript apps since 2016.
-- You can contact me at `jonurnieta@gmail.com`. 
+# Hi there, I'm Jon Ramos 👋
 
-# Tech Stack
-![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
-![Datomic](https://img.shields.io/badge/Datomic-bbf4cd.svg?style=for-the-badge)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+Welcome to my GitHub profile!
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## 🚀 About Me
 
-### Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jon-ramos-8ba55a14a/)
+- 💻 Software developer passionate about building modern web and mobile applications.
 
-![](https://komarev.com/ghpvc/?username=jramosg&label=GitHub+profile+views)
+- 🟢 **Professional experience with Clojure since 2016.**
+
+## 🧰 Tech Stack
+
+### 🖥️ Frontend
+
+![Astro](https://img.shields.io/badge/Astro-000?logo=astro&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![ClojureScript](https://img.shields.io/badge/ClojureScript-5881D8?logo=clojure&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=fff)
+
+### ⚙️ Backend
+
+![Clojure](https://img.shields.io/badge/Clojure-5881D8?logo=clojure&logoColor=fff)
+
+### 🗄️ Database
+
+![Postgres](https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=fff)
+![Datomic](https://img.shields.io/badge/Datomic-0C2233?logo=data&logoColor=fff)
+
+
+## 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/jonramos/)
+- 📧 jonurnieta@gmail.com
+
+---
+
+Thanks for visiting my profile! 🚀
