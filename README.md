@@ -1,4 +1,4 @@
-# Hi there, I'm Jon Ramos 👋
+# Hi there, I'm Jon 👋
 
 Welcome to my GitHub profile!
 
