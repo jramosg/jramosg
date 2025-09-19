@@ -30,8 +30,8 @@ Welcome to my GitHub profile!
 
 ## 📫 How to reach me
 
-- [LinkedIn]([https://www.linkedin.com/in/jonramos/](https://www.linkedin.com/in/jon-ramos-8ba55a14a)
-- 📧 jonurnieta@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/jon-ramos-8ba55a14a)
+- [📧 jonurnieta@gmail.com](mailto:jonurnieta@gmail.com)
 
 ---
 
