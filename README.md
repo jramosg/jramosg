@@ -59,7 +59,8 @@ Check out my portfolio at **[jonramos.dev](https://jonramos.dev)** - built with 
 ## How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/jon-ramos-8ba55a14a)
-- [📧 jonurnieta@gmail.com](mailto:jonurnieta@gmail.com)
+- [jonurnieta@gmail.com](mailto:jonurnieta@gmail.com)
+- [Clojurians Slack](https://clojurians.slack.com/team/U0649HGGXJP)
 
 ---
 
