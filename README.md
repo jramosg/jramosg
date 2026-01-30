@@ -51,6 +51,7 @@ I've contributed to several open source projects:
 - **[clj-kondo](https://github.com/clj-kondo/clj-kondo)** - Static analyzer and linter for Clojure
 - **[cljfmt](https://github.com/weavejester/cljfmt)** - Code formatter for Clojure
 - **[Logseq](https://github.com/logseq/logseq)** - Privacy-first knowledge base
+- **[Calva](https://github.com/BetterThanTomorrow/calva)** -  A development environment for Clojure and ClojureScript programming in Visual Studio Code
 
 ## Portfolio
 
